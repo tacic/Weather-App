@@ -1,6 +1,6 @@
 # Weather-App
 
-Automatically checks for location, writes it on the screen and gives temperature, humidity and wind speed and direction.
+Automatically checks for location, writes it on the screen and gives temperature, humidity and wind speed and direction...
 
 It also has a picture collection of clouds, sun, snow that changes simultaneously with other data.
 
